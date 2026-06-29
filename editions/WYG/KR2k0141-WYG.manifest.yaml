@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR2k0141/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2k0141/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 真臘風土記
+  date: '2015-08-24 22:47:14.071251'
+  source:
+    repository: kanripo
+    path: KR2k0141
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2k0141_000-WYG.yaml, hash: 'sha256:0fe117ac750c1486878e145e2de6bbe553ef0955a9b38b1bc1b064a345e0bf3c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2k0141_000-WYG.markers.yaml, hash: 'sha256:cf61ca3b3cbbd2a6f72e5628926e110f8409fa36b54bc126b9673883ebf6320c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2k0141_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 285
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2k0141_WYG_000-3a
+    span:
+    - body
+    - 285
+    - 8876
+  label: 真臘風土紀
+  type: section
+  level: 1
+hash: sha256:968e7591c299d143004f98427f139b65a521e74e22be6695bf04da412cf66beb
