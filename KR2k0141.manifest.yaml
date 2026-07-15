@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2k0141/v1
 canonical_location: https://kanripo.org/bkk/KR2k0141/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 真臘風土記
   date: '2015-08-24 22:47:14.071251'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2k0141_000.yaml, hash: 'sha256:7f8f7ab1d4c75544d8f93565fec789931830d7c9478df3f6040729cce241ff58'}
+  - {seq: 0, filename: KR2k0141_000.yaml, hash: 'sha256:70f6a8034f1ee8973681df707cec486ae545e34ff5a2a86d6aed8b99f7cbf940'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0141_000.markers.yaml, hash: 'sha256:53d5456fc1a34fb0465105f7fe353dfa77eac6516fef203ca05975f4fd11c906'}
+  - {seq: 0, role: markers, filename: assets/KR2k0141_000.markers.yaml, hash: 'sha256:19bb914fc18b18f57a6dc96e1c4b9ae6b3a7b881ec091d02f5ad3b0abaa08532'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 真臘風土紀
   type: section
   level: 1
-hash: sha256:e63475403bb66d5c899b701522b3dd51c5cbafb94c5d3e4fac94fdad960adea4
+hash: sha256:da8b36bd3d836baa7b7f0f34490b9c850da75ee32312be3bbd37ef464ce002b6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
