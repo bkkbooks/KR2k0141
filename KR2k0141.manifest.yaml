@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2k0141_000.yaml, hash: 'sha256:70f6a8034f1ee8973681df707cec486ae545e34ff5a2a86d6aed8b99f7cbf940'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0141_000.markers.yaml, hash: 'sha256:19bb914fc18b18f57a6dc96e1c4b9ae6b3a7b881ec091d02f5ad3b0abaa08532'}
+  - {seq: 0, role: markers, filename: assets/KR2k0141_000.markers.yaml, hash: 'sha256:70c8a912086f7d9abb253de9f59f83da77837d9506b33b950bea6f11e46159a8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,7 @@ table_of_contents:
   label: 真臘風土紀
   type: section
   level: 1
-hash: sha256:da8b36bd3d836baa7b7f0f34490b9c850da75ee32312be3bbd37ef464ce002b6
+hash: sha256:25562fb991a25b047bfa33d464f6891ea8999fc47545f52e6207478bff5d32c7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
